@@ -3,7 +3,7 @@ A checkout page with some **discounts rules** based on item amount:
 - Shirt: Buy 3 or more and and Get %5 discount on each one
 - Skirt: Buy 2 for the price of 1
 
-> This is part of a challenge for a technical interview. Styles and HTML was provided beforehand.
+> ```This is part of a challenge for a technical interview. Styles and HTML were provided beforehand.```
 
 [Project URL ](https://cart-challenge.vercel.app/)
 
