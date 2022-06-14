@@ -5,6 +5,10 @@ A checkout page with some **discounts rules** based on item amount:
 
 > This is part of a challenge for a technical interview. Styles and HTML was provided beforehand.
 
+[Project URL ](https://cart-challenge.vercel.app/)
+
+[![screenshot](http://ivanmuller.me/images/cart-challenge.jpg)](https://cart-challenge.vercel.app/)
+
 ## Run it locally
 1) Clone or download the main folder structure.
 2) Run `npm install`.
